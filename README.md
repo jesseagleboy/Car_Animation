@@ -1,4 +1,4 @@
-# Car_Animation
+# Car Animation
 
 This is a simple animation test strictly using HTML & CSS
 
